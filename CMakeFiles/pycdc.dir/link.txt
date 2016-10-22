@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Werror    CMakeFiles/pycdc.dir/pycdc.cpp.o CMakeFiles/pycdc.dir/ASTree.cpp.o CMakeFiles/pycdc.dir/ASTNode.cpp.o  -o pycdc -rdynamic libpycxx.a 
